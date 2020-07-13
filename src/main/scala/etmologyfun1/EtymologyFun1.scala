@@ -1,3 +1,5 @@
+package etmologyfun1
+
 sealed trait Language
 case object English extends Language
 case object MiddleEnglish extends Language
